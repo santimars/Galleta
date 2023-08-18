@@ -1,1 +1,1 @@
-console.log("Hello check my profile in GitHub")
+const pair = 'extraordinary';
